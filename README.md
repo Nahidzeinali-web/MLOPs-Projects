@@ -24,3 +24,10 @@ Set up dashboards and alerting for ML systems.
 Deploy Falcon 40B on AWS SageMaker and build a blog generation app using LLMs.  
 🔗 [View Project](https://github.com/Nahidzeinali-web/generative-ai-with-cloud)
 
+## 🧭 My Learning Journey
+
+This portfolio reflects my personal journey in learning and applying MLOps, DevOps, and AI deployment best practices. Each project represents a new skill, tool, or workflow I’ve studied and built independently. My goal is to deepen my understanding and contribute clear, practical examples that help others in their MLOps journey.
+
+I'll update this space with new projects, insights, and tools as I master end-to-end AI systems.
+
+Feel free to explore, use, and contribute!
