@@ -20,9 +20,7 @@ Deploy ML models using Docker and FastAPI.
 Set up dashboards and alerting for ML systems.  
 🔗 [View Project](https://github.com/your-username/monitoring-with-prometheus)
 
-### 5. Generative AI on AWS SageMaker  
-Deploy Falcon 40B on AWS SageMaker and build a blog generation app using LLMs.  
-🔗 [View Project](https://github.com/Nahidzeinali-web/generative-ai-with-cloud)
+
 
 ## 🧭 My Learning Journey
 
