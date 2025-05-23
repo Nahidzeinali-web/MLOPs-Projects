@@ -12,10 +12,13 @@ This repository serves as a hub for all of my hands-on MLOps projects. Each proj
 
 🔗 [View Project](https://github.com/Nahidzeinali-web/End-to-End_Pipeline_Project2)
 
+### ✅3.  
+Wait!!...
+
 
 ## 🧭 My Learning Journey
 
-This portfolio reflects my personal journey in learning and applying MLOps, DevOps, and AI deployment best practices. Each project represents a new skill, tool, or workflow I’ve studied and built independently. My goal is to deepen my understanding and contribute clear, practical examples that help others in their MLOps journey.
+This portfolio reflects my personal journey in learning and applying MLOps, DevOps, and AI deployment best practices. Each project represents a new skill, tool, or workflow I’ve studied and built independently. I aim to deepen my understanding and contribute clear, practical examples that help others in their MLOps journey.
 
 I'll update this space with new projects, insights, and tools as I master end-to-end AI systems.
 
