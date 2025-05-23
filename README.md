@@ -8,7 +8,9 @@ This repository serves as a hub for all of my hands-on MLOps projects. Each proj
 
 🔗 [View Project](https://github.com/Nahidzeinali-web/End_to_End_Pipeline-Project1)
 
+### 2. End-to-End ML Pipeline with ETL,
 
+🔗 [View Project]
 
 
 ## 🧭 My Learning Journey
