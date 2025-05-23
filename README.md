@@ -2,9 +2,9 @@
 
 This repository serves as a hub for all of my hands-on MLOps projects. Each project covers a key part of the MLOps lifecycle — from experiment tracking to deployment and monitoring.
 
-## 🔗 Projects
+## 🧰 Projects
 
-### 1.  
+### 1. End-to-End ML Pipeline with ETL, Experiment Tracking (MLflow & DagsHub), CI/CD (GitHub Actions), Docker, and Flask Deployment
 
 🔗 [View Project](https://github.com/Nahidzeinali-web/End_to_End_Pipeline-Project1)
 
