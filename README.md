@@ -12,9 +12,11 @@ This repository serves as a hub for all of my hands-on MLOps projects. Each proj
 
 🔗 [View Project](https://github.com/Nahidzeinali-web/End-to-End_Pipeline_Project2)
 
-### ✅3.  
-Wait!!...
+### ✅3.  TextSummarizer Using Huggingface Transformer
+🔗 [View Project](https://github.com/Nahidzeinali-web/End_to_End_Pipeline-Project3)
 
+### ✅4.  
+Waiting...
 
 ## 🧭 My Learning Journey
 
