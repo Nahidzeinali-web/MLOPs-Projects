@@ -15,7 +15,8 @@ This repository serves as a hub for all of my hands-on MLOps projects. Each proj
 ### ✅3.  TextSummarizer Using Huggingface Transformer
 🔗 [View Project](https://github.com/Nahidzeinali-web/End_to_End_Pipeline-Project3)
 
-### ✅4.  
+### ✅4.  4. Data Pipeline with DVC, MLflow, and Dagshub for Machine Learning
+🔗 [View Project](https://dagshub.com/nahidzeinali2021/End-to-End_Pipeline_Project2)
 
 ### ✅5.  Hotel Reservation Prediction with MLFlow, Jenkins, and GCP Deployment
 Waiting...
