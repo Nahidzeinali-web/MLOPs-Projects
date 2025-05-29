@@ -6,37 +6,48 @@ This repository serves as a hub for all of my hands-on MLOps projects. Each proj
 
 ## ⚙️ Technologies & Tools Used
 
+### 🐍 Python Prerequisites
+- Brush up on essential Python programming skills needed for building data science and MLOps pipelines.
+
 ### 🔍 Experiment Tracking & Model Management
 - **MLflow**, **Comet-ML**, **TensorBoard**
-- Log experiments, compare runs, and manage model versions effectively.
+- Log experiments, compare runs, manage models, and integrate seamlessly with AWS Cloud for deployment.
 
 ### 📦 Data & Code Versioning
 - **DVC**, **Git**, **GitHub**, **GitLab**
-- Track large datasets and maintain full reproducibility of code and data.
+- Manage datasets, code, and model versions efficiently to ensure reproducibility.
 
 ### 🔁 CI/CD Pipelines & Automation
 - **Jenkins**, **GitHub Actions**, **GitLab CI/CD**, **ArgoCD**, **CircleCI**
-- Automate the entire machine learning (ML) lifecycle, from data ingestion to deployment.
+- Automate testing, deployment, and updates across the ML lifecycle.
 
 ### ☁️ Cloud & Infrastructure
-- **Google Cloud Platform (GCP)**, **Minikube**, **Google Cloud Run**, **Kubernetes**
-- Build scalable and portable infrastructure for training and deployment.
+- **Google Cloud Platform (GCP)**, **Minikube**, **Google Cloud Run**, **AWS SageMaker**, **Kubernetes**
+- Build, scale, and monitor models using cloud-native and hybrid infrastructures.
 
 ### 📦 Deployment & Containerization
 - **Docker**, **Kubernetes**, **FastAPI**, **Flask**
-- Package and deploy applications reliably across different environments.
+- Containerize ML applications and deploy them reliably across environments.
 
 ### 🏗️ Data Engineering & Feature Storage
 - **PostgreSQL**, **Redis**, **Astro Airflow**, **PSYCOPG2**
-- Automate ETL and manage structured and real-time feature stores.
+- Build and deploy ETL pipelines, integrate data sources, and manage real-time features.
 
 ### 📈 ML Monitoring & Drift Detection
 - **Prometheus**, **Grafana**, **Alibi-Detect**
-- Monitor model performance and detect drift in real-time.
+- Monitor performance, detect data and model drift, and visualize insights in real-time.
 
 ### 🌐 API & Web App Development
 - **FastAPI**, **Flask**, **ChatGPT**, **Postman**, **SwaggerUI**
-- Develop APIs for inference and build interactive ML apps and documentation.
+- Develop and document APIs for real-time model inference and chatbot integrations.
+
+### 🤝 Collaborative Platforms
+- **DagsHub**, **GitHub**, **GitLab**
+- Track code, data, and ML experiments collaboratively using Git and DVC.
+
+### 🤖 Generative AI & NLP
+- **Huggingface**, **ChatGPT**, **Transformers**
+- Deploy and monitor NLP projects using transformer-based models.
 
 ---
 
@@ -78,9 +89,9 @@ This repository serves as a hub for all of my hands-on MLOps projects. Each proj
 
 ---
 
-## 🗭 My Learning Journey
+## 🧭 My Learning Journey
 
-This portfolio reflects my evolving journey in mastering MLOps, DevOps, and scalable AI systems. Each project demonstrates practical application of industry tools and represents a step forward in my understanding of building robust, reproducible ML workflows.
+This portfolio reflects my evolving journey in mastering MLOps, DevOps, and scalable AI systems. Each project demonstrates practical application of industry tools, and represents a step forward in my understanding of building robust, reproducible ML workflows.
 
 I will continue to update this space with new projects, insights, and tools as I advance.  
 Feel free to **explore**, **fork**, or **contribute**!
