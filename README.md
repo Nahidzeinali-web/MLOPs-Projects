@@ -15,12 +15,14 @@ This repository serves as a hub for all of my hands-on MLOps projects. Each proj
 ### ✅3.  TextSummarizer Using Huggingface Transformer
 🔗 [View Project](https://github.com/Nahidzeinali-web/End_to_End_Pipeline-Project3)
 
-### ✅4.  Hotel Reservation Prediction with MLFlow, Jenkins, and GCP Deployment
+### ✅4.  
+
+### ✅5.  Hotel Reservation Prediction with MLFlow, Jenkins, and GCP Deployment
 Waiting...
 
-### ✅5. Hybrid Anime Recommender System with Comet-ML, DVC, Jenkins, and Kubernetes
+### ✅6. Hybrid Anime Recommender System with Comet-ML, DVC, Jenkins, and Kubernetes
 Waiting...
-### ✅6.
+### ✅7.
 ### ✅7.
 ### ✅8.
 ### ✅9.
