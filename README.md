@@ -69,11 +69,11 @@ This repository serves as a hub for all of my hands-on MLOps projects. Each proj
 | 2 | Full ML Pipeline with MongoDB & FastAPI on AWS | MongoDB, FastAPI, Docker, AWS | [🔗 View](https://github.com/Nahidzeinali-web/End-to-End_Pipeline_Project2) |
 | 3 | Text Summarizer with Huggingface Transformers | Huggingface, Transformers | [🔗 View](https://github.com/Nahidzeinali-web/End_to_End_Pipeline-Project3) |
 | 4 | Data Pipeline with DVC, MLflow & DagsHub | DVC, MLflow, DagsHub | [🔗 View](https://dagshub.com/nahidzeinali2021/End-to-End_Pipeline_Project2) |
-| 5 | Hotel Reservation Prediction with MLFlow, Jenkins, GCP | MLflow,Docker,Jenkins,GCP | [🔗 View](https://github.com/Nahidzeinali-web/End_to_End_-DataScience-Project5) |
-| 6 | Anime Recommender System with Comet-ML, Kubernetes | Comet-ML, Jenkins, DVC, Kubernetes | [🔗 View](https://github.com/Nahidzeinali-web/End_to_End_DataScientist_project6) |
-| 7 | User Survival Prediction (Airflow, Redis, Grafana) | Airflow, SQL, Redis, Grafana | ⏳ Coming Soon |
+| 5 | Hotel Reservation Prediction  | MLflow,Docker,Jenkins,GCP | [🔗 View](https://github.com/Nahidzeinali-web/End_to_End_-DataScience-Project5) |
+| 6 | Anime Recommender System  | Comet-ML, Jenkins, DVC, Kubernetes | [🔗 View](https://github.com/Nahidzeinali-web/End_to_End_DataScientist_project6) |
+| 7 | User Survival Prediction  | Airflow, SQL, Redis, Grafana | ⏳ Coming Soon |
 | 8 | Custom Guns Object Detection | TensorBoard, FastAPI, Postman | ⏳ Coming Soon |
-| 9 | Colorectal Cancer Prediction (Minikube, Kubeflow) | MLflow, Minikube, Kubeflow | ⏳ Coming Soon |
+| 9 | Colorectal Cancer Prediction  | MLflow, Minikube, Kubeflow | ⏳ Coming Soon |
 | 10 | Minor Project 1 – Using CircleCI | CircleCI | ⏳ Coming Soon |
 | 11 | Minor Project 2 – Using GitLab CI/CD | GitLab CI/CD | ⏳ Coming Soon |
 | 12 | Minor Project 3 – Using GitHub Actions | GitHub Actions | ⏳ Coming Soon |
