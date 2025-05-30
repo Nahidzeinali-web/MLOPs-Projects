@@ -82,6 +82,7 @@ This repository serves as a hub for all of my hands-on MLOps projects. Each proj
 | 14 |🕐Smart Manufacturing Efficiency Prediction | GitOps, ArgoCD, Jenkins | ⏳ Coming Soon |
 | 15 |🔜*(Reserved for future project)* | — | 🔜 Planned |
 
+> ✅ Completed  🕐 In Progress  🔜 Planned
 ---
 
 ## 🧭 My Learning Journey
