@@ -79,7 +79,7 @@ This repository serves as a hub for all of my hands-on MLOps projects. Each proj
 | 11 |🕐Minor Project 2 – Using GitLab CI/CD | GitLab CI/CD | ⏳ Coming Soon |
 | 12 |🕐Minor Project 3 – Using GitHub Actions | GitHub Actions | ⏳ Coming Soon |
 | 13 |🕐Australia Weather Rain Prediction | GitHub Actions, CircleCI, GitLab | ⏳ Coming Soon |
-| 14 |vSmart Manufacturing Efficiency Prediction | GitOps, ArgoCD, Jenkins | ⏳ Coming Soon |
+| 14 |🕐Smart Manufacturing Efficiency Prediction | GitOps, ArgoCD, Jenkins | ⏳ Coming Soon |
 | 15 |🔜*(Reserved for future project)* | — | 🔜 Planned |
 
 ---
