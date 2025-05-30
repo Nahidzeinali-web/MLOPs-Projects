@@ -66,8 +66,8 @@ This repository serves as a hub for all of my hands-on MLOps projects. Each proj
 | # | Project Title | Technologies | Link |
 |--|---------------|--------------|------|
 | 1 | End-to-End ML Pipeline (ETL, MLflow, Docker, Flask) | MLflow, DagsHub, GitHub Actions | [🔗 View](https://github.com/Nahidzeinali-web/End_to_End_Pipeline-Project1) |
-| 2 | Full ML Pipeline with MongoDB & FastAPI on AWS | MongoDB, FastAPI, Docker, AWS | [🔗 View](https://github.com/Nahidzeinali-web/End-to-End_Pipeline_Project2) |
-| 3 | Text Summarizer with Huggingface Transformers | Huggingface, Transformers | [🔗 View](https://github.com/Nahidzeinali-web/End_to_End_Pipeline-Project3) |
+| 2 | End-to-End ML Pipeline Network Security applications | MongoDB, FastAPI, Docker, AWS | [🔗 View](https://github.com/Nahidzeinali-web/End-to-End_Pipeline_Project2) |
+| 3 | Text Summarizer Application | Huggingface, Transformers | [🔗 View](https://github.com/Nahidzeinali-web/End_to_End_Pipeline-Project3) |
 | 4 | Data Pipeline with DVC, MLflow & DagsHub | DVC, MLflow, DagsHub | [🔗 View](https://dagshub.com/nahidzeinali2021/End-to-End_Pipeline_Project2) |
 | 5 | Hotel Reservation Prediction  | MLflow,Docker,Jenkins,GCP | [🔗 View](https://github.com/Nahidzeinali-web/End_to_End_-DataScience-Project5) |
 | 6 | Anime Recommender System  | Comet-ML, Jenkins, DVC, Kubernetes | [🔗 View](https://github.com/Nahidzeinali-web/End_to_End_DataScientist_project6) |
