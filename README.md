@@ -70,8 +70,8 @@ This repository serves as a hub for all of my hands-on MLOps projects. Each proj
 | 3 |✅Data Pipeline with DVC, MLflow & DagsHub | DVC, MLflow, DagsHub | [🔗 View](https://dagshub.com/nahidzeinali2021/End-to-End_Pipeline_Project2) |
 | 4 |✅Text Summarizer Application | Huggingface, Transformers | [🔗 View](https://github.com/Nahidzeinali-web/End_to_End_Pipeline-Project3) |
 | 4 |✅Data Pipeline with DVC, MLflow & DagsHub | DVC, MLflow, DagsHub | [🔗 View](https://dagshub.com/nahidzeinali2021/End-to-End_Pipeline_Project2) |
-| 5 |✅Hotel Reservation Prediction  | MLflow,Docker,Jenkins,GCP | [🔗 View](https://github.com/Nahidzeinali-web/End_to_End_-DataScience-Project5) |
-| 6 |🕐Anime Recommender System  | Comet-ML, Jenkins, DVC, Kubernetes | [🔗 View](https://github.com/Nahidzeinali-web/End_to_End_DataScientist_project6) |
+| 5 |✅Hotel Reservation Prediction  | MLflow,Docker,Jenkins,GCP | [🔗 View](https://github.com/Nahidzeinali-web/End_to_End_-DataScience-Project) |
+| 6 |🕐Anime Recommender System  | Comet-ML, Jenkins, DVC, Kubernetes | [🔗 View](https://github.com/Nahidzeinali-web/End_to_End_DataScience_project6) |
 | 7 |🕐User Survival Prediction  | Airflow, SQL, Redis, Grafana | ⏳ Coming Soon |
 | 8 |🕐Custom Guns Object Detection | TensorBoard, FastAPI, Postman | ⏳ Coming Soon |
 | 9 |🕐Colorectal Cancer Prediction  | MLflow, Minikube, Kubeflow | ⏳ Coming Soon |
